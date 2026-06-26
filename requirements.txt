@@ -1,0 +1,2 @@
+python-telgram-bot
+groq
